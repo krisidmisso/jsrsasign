@@ -17,15 +17,15 @@ import { KJUR, KEYUTIL } from 'jsrsasign';
 ```
 const pub = `-----BEGIN PUBLIC KEY-----
 
-CONTENT OF YOUR PUBLIC KEY
+            CONTENT OF YOUR PUBLIC KEY
 
------END PUBLIC KEY-----`;
+            -----END PUBLIC KEY-----`;
 
 const prv = `-----BEGIN RSA PRIVATE KEY-----
 
-CONTENT OF YOUR PRIVATE KEY
+            CONTENT OF YOUR PRIVATE KEY
 
------END RSA PRIVATE KEY-----`;
+            -----END RSA PRIVATE KEY-----`;
 ```
 
 #### Import/Convert keys to object:
